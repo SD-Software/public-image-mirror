@@ -91,6 +91,7 @@ docker.io/velero/**
 docker.io/vesoft/**
 docker.io/victoriametrics/**
 docker.io/weaveworks/**
+docker.io/cym1102/**
 gcr.io/**
 ghcr.io/aquasecurity/**
 ghcr.io/chaos-mesh/**
